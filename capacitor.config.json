@@ -1,0 +1,13 @@
+{
+  "appId": "com.unipulse.app",
+  "appName": "UniPulse",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "minVersion": "22",
+    "targetVersion": "33"
+  }
+}
